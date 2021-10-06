@@ -1,0 +1,12 @@
+
+*.class
+.idea
+.bsp
+target/
+*.env
+*yml
+
+# Compile results
+target/**
+project/project/**
+project/target/**
